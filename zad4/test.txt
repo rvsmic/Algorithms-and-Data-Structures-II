@@ -1,0 +1,39 @@
+WE:
+
+10
+A
+B
+C
+D
+E
+F
+G
+H
+I
+J
+10
+r A J
+a X
+a Z
+m A -2
+m Z 2
+r A J
+r A I
+r G B
+m J 20
+m Z -5
+
+WY:
+
+J
+I
+G
+C
+D
+E
+F
+B
+H
+A
+X
+Z

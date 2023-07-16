@@ -4,7 +4,7 @@ All assignments and my solutions from the course Algorithms and Data Structures 
 ## Assignment 1: "Mrok" (Dark) - Dijkstra's Algorithm
 
 ### Links:
-[Wikipedia](https://en.wikipedia.org/wiki/Dijkstra%27s_algorithm) | [All Attempts](https://github.com/rvsmic/Algorithms-and-Data-Structures-II/blob/main/zad1/zad1v7.cpp) | [Final Solution](https://github.com/rvsmic/Algorithms-and-Data-Structures-II/blob/main/zad1/zad1v7.cpp)
+[Wikipedia](https://en.wikipedia.org/wiki/Dijkstra%27s_algorithm) | [All Attempts](https://github.com/rvsmic/Algorithms-and-Data-Structures-II/blob/main/zad1) | [Final Solution](https://github.com/rvsmic/Algorithms-and-Data-Structures-II/blob/main/zad1/zad1v7.cpp)
 
 ### Description:
 A boy named Jonasz Las discovered the ability to travel in spacetime. He designed a machine that utilizes Cesium-137 and the Higgs field to create a miniature black hole.
